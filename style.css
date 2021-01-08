@@ -1,0 +1,50 @@
+body{
+    background-image: url(hatter.jpg);
+    font-family:Arial ;
+}
+.nagycucc{
+    background-image: url(fejlec.jpg);
+@@ -14,14 +15,14 @@ body{
+    background-image: url(menukep.jpg);
+    background-repeat: no-repeat;
+    background-position: bottom;
+    background-size: 323px;
+    background-size: 274px;
+    width: 250px;
+    height: 700px;
+    margin-left: 500px;
+    background-color: #E8E8E8;
+    border: 0px;
+
+    text-align: center;
+    text-align: left;
+}
+
+h1{
+@@ -49,16 +50,24 @@ h2{
+.bal{
+    line-height: 0.9;
+    color: #800000;
+    margin-left: 50px;
+}
+
+
+#tel{
+    color: #800000;
+    margin-left: 50px;
+    font-size: 13px;
+    line-height: 2;
+}
+#gmail{
+   color: #800000; 
+   color: #800000;
+   margin-left: 50px; 
+   font-size: 13px;
+}
+.nagyonsokszov{
+    color: #484848;
+    font-size: 24px;
+    font-size: 22px;
+    text-align: justify;
+
+}
